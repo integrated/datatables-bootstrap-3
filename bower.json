@@ -11,8 +11,7 @@
     "./B3/assets/css/datatables.css"
   ],
   "dependencies": {
-    "jquery": ">=1.8.0",
-    "bootstrap": ">= 3.0.0",
+    "bootstrap": "https://github.com/twbs/bootstrap.git",
     "DataTables": "https://github.com/smargovsky/DataTables.git"
   },
   "license": "MIT",
