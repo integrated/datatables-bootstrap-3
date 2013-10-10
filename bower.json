@@ -7,8 +7,8 @@
   ],
   "description": "DataTables adaptation to work with Bootstrap 3",
   "main": [
-    "./B3/assets/js/datatables.js", 
-    "./B3/assets/css/datatables.css"
+    "./BS3/assets/js/datatables.js", 
+    "./BS3/assets/css/datatables.css"
   ],
   "dependencies": {
     "bootstrap": "https://github.com/twbs/bootstrap.git",
