@@ -1,9 +1,11 @@
 {
   "name": "Datatables-Bootstrap3",
   "version": "0.0.0",
-  "homepage": "https://github.com/smargovsky/Datatables-Bootstrap3",
+  "homepage": "https://github.com/lukens/datatables-bootstrap-3",
   "authors": [
-    "Serge Margovsky <smargovsky@gmail.com>"
+		"Jowin <jowinsam@gmail.com>",
+    "Luke Noel-Storr <lukens@me.com>",
+		"Serge Margovsky <smargovsky@gmail.com>"
   ],
   "description": "DataTables adaptation to work with Bootstrap 3",
   "main": [
@@ -11,8 +13,8 @@
     "./BS3/assets/css/datatables.css"
   ],
   "dependencies": {
-    "bootstrap": "https://github.com/twbs/bootstrap.git",
-    "DataTables": "https://github.com/smargovsky/DataTables.git"
+    "bootstrap": "~3.0.0",
+    "datatables": "git://github.com/DataTables/DataTables.git#4549646891a951ab935d6b3058382186d1f06e22"
   },
   "license": "MIT",
   "private": true,
