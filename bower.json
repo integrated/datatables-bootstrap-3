@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "bootstrap": "~3.0.0",
-    "datatables": "git://github.com/DataTables/DataTables.git#4549646891a951ab935d6b3058382186d1f06e22"
+    "datatables": "git://github.com/integrated/DataTables.git#cbf03e43e23967b9568607c07df22749992b9e76"
   },
   "license": "MIT",
   "private": true,
